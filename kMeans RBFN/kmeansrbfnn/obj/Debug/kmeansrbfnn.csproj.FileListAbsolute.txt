@@ -1,0 +1,12 @@
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\bin\Debug\kmeansrbfnn.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\bin\Debug\kmeansrbfnn.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\obj\Debug\kmeansrbfnn.csprojResolveAssemblyReference.cache
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\obj\Debug\kmeansrbfnn.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\obj\Debug\kmeansrbfnn.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\bin\Debug\kmeansrbfnn.exe.config
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\bin\Debug\Accord.dll
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\bin\Debug\Accord.Math.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\bin\Debug\Accord.Math.xml
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\bin\Debug\Accord.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\bin\Debug\Accord.xml
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\kmeansrbfnn\kmeansrbfnn\bin\Debug\Accord.Math.dll

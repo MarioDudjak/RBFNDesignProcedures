@@ -1,0 +1,123 @@
+E:\stuff\programming\C#\clustering\DifferentialEvolution\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+E:\stuff\programming\C#\clustering\DifferentialEvolution\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+E:\stuff\programming\C#\clustering\DifferentialEvolution\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+E:\stuff\programming\C#\clustering\DifferentialEvolution\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+E:\stuff\programming\C#\clustering\DifferentialEvolution\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\programming\cluster_analysis\DifferentialEvolution\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\programming\cluster_analysis\DifferentialEvolution\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\programming\cluster_analysis\DifferentialEvolution\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\programming\cluster_analysis\DifferentialEvolution\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\programming\cluster_analysis\DifferentialEvolution\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - all-in-one\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - all-in-one\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - all-in-one\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - all-in-one\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - all-in-one\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - full-loop\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - full-loop\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - full-loop\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - full-loop\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - full-loop\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe.config
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\bin\Debug\Accord.Math.dll
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\bin\Debug\Accord.dll
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\bin\Debug\Accord.Math.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\bin\Debug\Accord.Math.xml
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\bin\Debug\Accord.pdb
+C:\Users\drazen\SkyDrive\DE_RBFNN\programs\DifferentialEvolution - PINV\DifferentialEvolution\bin\Debug\Accord.xml
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe.config
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.Math.dll
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.dll
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.Math.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.Math.xml
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.xml
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe.config
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.Math.dll
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.dll
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.Math.pdb
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.Math.xml
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.pdb
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\bin\Debug\Accord.xml
+C:\Users\Stray\Dropbox\icannga2015\programs\DE RBFN\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe.config
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\bin\Debug\Accord.Math.dll
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\bin\Debug\Accord.dll
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\bin\Debug\Accord.Math.pdb
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\bin\Debug\Accord.Math.xml
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\bin\Debug\Accord.pdb
+C:\Users\Stray\Desktop\DE RBFN\DifferentialEvolution\bin\Debug\Accord.xml
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe.config
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\bin\Debug\Accord.Math.dll
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\bin\Debug\Accord.dll
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\bin\Debug\Accord.Math.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\bin\Debug\Accord.Math.xml
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\bin\Debug\Accord.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\bin\Debug\Accord.xml
+C:\Users\drazen\Dropbox\icannga2015\programs\DE RBFN Original\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe.config
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.Math.dll
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.dll
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.Math.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.Math.xml
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.pdb
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.xml
+C:\Users\drazen\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe.config
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.Math.dll
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.dll
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.Math.pdb
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.Math.xml
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.pdb
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.xml
+C:\Users\Stray\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe.config
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.pdb
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.dll
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.Math.pdb
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.Math.xml
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.pdb
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\Accord.xml
+C:\Users\Zoric\Dropbox\icannga2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.csprojResolveAssemblyReference.cache
+E:\_dropbox\Dropbox\collaboration\HAIS2015\programs\derbfnn - new - improved\DifferentialEvolution\bin\Debug\DifferentialEvolution.exe.config
+E:\_dropbox\Dropbox\collaboration\HAIS2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.exe
+E:\_dropbox\Dropbox\collaboration\HAIS2015\programs\derbfnn - new - improved\DifferentialEvolution\obj\Debug\DifferentialEvolution.pdb
